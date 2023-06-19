@@ -39,6 +39,8 @@ body {
 header {
   padding: 20px 30px;
   overflow: hidden;
+  display: flex;
+  align-items: center;
 }
 
 h1 {
